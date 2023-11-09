@@ -1,0 +1,8 @@
+---
+title: "BCO 7007 - AI ML Assessment 3"
+author: "Zipporah"
+date: "2023-11-09"
+output: html_document
+---
+
+
